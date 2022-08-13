@@ -169,11 +169,6 @@ hash = "9fdbd1ea88ecdeec20ce8fbf5df7c20d3c2defbb253bdcf486b5ebae8cc48e96"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "90e7d94f6e476dd5f4875ae518a02ba654c988a1978108efb1b7047bb55f062a"
-metafile = true
-
-[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "cf701172aaaeec7d1954f0af0ac3edc8548212a6d49fc7b4c9cf8b0228cdb5f4"
 metafile = true
@@ -291,6 +286,11 @@ metafile = true
 [[files]]
 file = "mods/puzzle.pw.toml"
 hash = "f630282185bb0a2ec666d8119f927f5020ae8168747b2a03c571f081f27e5949"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "e8a70e0fb28e3823e2e249837a21bc89aaf27b01278bf3fa9b3d0047bc080784"
 metafile = true
 
 [[files]]
