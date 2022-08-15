@@ -5,7 +5,7 @@ side = "both"
 [download]
 url = "https://cdn.modrinth.com/data/g8w1NapE/versions/1.9.0/fabrictailor-1.9.0.jar"
 hash-format = "sha1"
-hash = "605ac44b35aef08c48d7423e5df099d9b1b534dc"
+hash = "cfba1c412a71516de569039d707a43754f5913aa"
 
 [update]
 [update.modrinth]
