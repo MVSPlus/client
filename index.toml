@@ -41,6 +41,10 @@ file = "config/openloader/resources/MVS+ Resources/pack.mcmeta"
 hash = "52053107fb06505c877c522ddceb30fcaca35756967d485adf81cfaa6848fcc3"
 
 [[files]]
+file = "config/openloader/resources/polymer-resourcepack.zip"
+hash = "35f48f3fb3904f89b032869554746464e84275059df9e20790b1b0d63c0d1b2b"
+
+[[files]]
 file = "config/puzzle.json"
 hash = "1db967817059276c90dd3fd34e2573abe7883f2a169285a2c03632f6c9d31fe8"
 
