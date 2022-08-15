@@ -18,19 +18,43 @@ hash = "c809b238d2bae975f1e742f583a7746932fb956c50bc2cf4c6e03fe6d3f4caff"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "6544f25ceb77178713340e5acd141bfee7cd8ae5041a982e7322cdbbe360515b"
+hash = "9b2b9e6739dfb202e1497e8dcd32ecb4c6b3145f8f237326e9fa366869915caf"
 
 [[files]]
 file = "config/modmenu.json"
 hash = "b2d6f97d6f09d3c02504264a778ab1958378c91e5d743afed9ab71846073bf60"
 
 [[files]]
+file = "config/openloader/resources/MVS+ Resources/assets/modmenu/lang/de_de.json"
+hash = "1a786234e5c6de4bdad6da15b0adc484eb4e0ca9cee24fcf0eba9e0245434b62"
+
+[[files]]
+file = "config/openloader/resources/MVS+ Resources/assets/modmenu/lang/el_gr.json"
+hash = "7753efff4f9d238fc8f34f114cba3e2821160327133167a0f44361a35a508216"
+
+[[files]]
 file = "config/openloader/resources/MVS+ Resources/assets/modmenu/lang/en_us.json"
-hash = "d9cdad9976334ad13cb0fbdd8d8e80c227b3db420d5a426e5112a36f4eeec011"
+hash = "3fd37111dc2620de64e3e01365808622b8676d9bb235b133724e7c06a8da70ea"
+
+[[files]]
+file = "config/openloader/resources/MVS+ Resources/assets/modmenu/lang/et_ee.json"
+hash = "4ee0113e76b0eda56cc68d5e8d16b6c7115964efac6623e6be32e21783fe4a8a"
+
+[[files]]
+file = "config/openloader/resources/MVS+ Resources/assets/modmenu/lang/ko_kr.json"
+hash = "656d1e3a8cb346578575a0858793f4ef0cc97e7dc966b4bea5c473e98a476386"
+
+[[files]]
+file = "config/openloader/resources/MVS+ Resources/assets/modmenu/lang/pt_br.json"
+hash = "da4bb459b80f9229aeb251aab4d48e7e398c8ec71e5a9d2ef142da40822272cf"
 
 [[files]]
 file = "config/openloader/resources/MVS+ Resources/assets/modmenu/lang/ru_ru.json"
-hash = "519a516beb0caa39ce84d95029ee0bbe175ceae9df4c752e904b082f4f5b48b6"
+hash = "70e87f9f65640c89a81656110b277fcaf0a6d971ed6503f008f2b2021fde2f3b"
+
+[[files]]
+file = "config/openloader/resources/MVS+ Resources/assets/modmenu/lang/tr_tr.json"
+hash = "b60e2daf7bde4a3d86eb453b5d0ed238906be54df2479c08ec99e38a362c9930"
 
 [[files]]
 file = "config/openloader/resources/MVS+ Resources/assets/universal_graves/lang/ru_ru.json"
@@ -223,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrictailor.pw.toml"
-hash = "d7892548e0b0bbcad9dccd94f99786770d296d386eb1eaab525b56046aa7218a"
+hash = "e8afc8ae59a604293f2abd46b83a5c19ac09e7cf09c0d59fea867d964f90fb5c"
 metafile = true
 
 [[files]]
@@ -307,6 +331,11 @@ hash = "f89672b5ffcb247fb31e616b4de8f7e8a460802c7826d27a64328f27c190734d"
 metafile = true
 
 [[files]]
+file = "mods/mixintrace.pw.toml"
+hash = "1199295c714f62bbb8eeb2f70ab72a5f21482b71bfb6601829248d9c588138e0"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "24b56cdea0d96fc1b03b8cb6e6bb4b600c6fe730f7cd86e84004d100779ad5a1"
 metafile = true
@@ -317,11 +346,6 @@ hash = "d1558ff187abe468110fef11eee834aa3c03df732e706ac16e221425b538da4d"
 metafile = true
 
 [[files]]
-file = "mods/moreculling.pw.toml"
-hash = "9dbc20e8a4e9bd8c997c2af628640f8dcdd05fde6437afbacd630531735c1fcb"
-metafile = true
-
-[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "7f4661acedba1f64b7cbfe36f613400b2657e59ce921bee55ab25b247835c2ba"
 metafile = true
@@ -329,11 +353,6 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "a067a3a38a6df8bf4440edc13ad29e22adf31041858c4fc4aee991c0f0e87263"
-metafile = true
-
-[[files]]
-file = "mods/notenoughcrashes.pw.toml"
-hash = "01efbdcb32ff6e70b6777e26df46bbe3c6c5aecb3e0c81797d234dfad9e0568d"
 metafile = true
 
 [[files]]
