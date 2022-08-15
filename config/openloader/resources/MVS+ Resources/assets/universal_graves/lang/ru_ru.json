@@ -1,0 +1,57 @@
+{
+  "text.graves.grave_of": "Могила %s",
+  "text.graves.items_xp": "П: %s О: %s",
+  "text.graves.items": "Предметы: %s",
+  "text.graves.protected_time": "Защищен %s",
+  "text.graves.protected_time_sign": "Защищен",
+  "text.graves.break_time": "Сломается %s",
+  "text.graves.break_time_sign": "Сломается ",
+  "text.graves.not_protected": "Не защищено!",
+  "text.graves.players_grave": "%s' могила",
+  "text.graves.gui_title": "Ваши могилы",
+  "text.graves.no_longer_protected": "Ваша могила в %s (%s) содержащая %s предмет(ов) больше не защищена!",
+  "text.graves.expired": "Ваша могила в %s (%s) содержащая %s предмет(ов) истекла!",
+  "text.graves.somebody_broke": "Ваша могила в %s (%s) содержащая %s предмет(ов) была разрушена!",
+  "text.graves.created_at": "Могила создана в %s (%s)",
+  "text.graves.created_at_expire": "Создана могила в %s (%s). Она пропадёт через %s",
+  "text.graves.creation_failed": "Couldn't create grave! Your items were dropped at %s (%s)",
+  "text.graves.creation_failed_void": "Grave wasn't created, because you died in void!",
+  "text.graves.creation_failed_pvp": "Grave wasn't created, because player killed you! Your items were dropped at %s (%s)",
+  "text.graves.creation_failed_claim": "Grave wasn't created, because you were in a claim! Your items were dropped at %s (%s)",
+
+  "text.graves.damage_source_info": "Вы были ударены: %s",
+  "text.graves.damage_source_info.enabled": "Enabled displaying of next damage sources! Type this command again to disable.",
+  "text.graves.damage_source_info.disabled": "Disabled displaying of damage sources!",
+
+  "text.graves.about.version": "Версия: %s",
+  "text.graves.about.contributors": "Создатели",
+
+  "text.graves.gui.next_page": "Следующая страница",
+  "text.graves.gui.previous_page": "Предыдущая страница",
+  "text.graves.gui.remove_protection": "Убрать защиту",
+  "text.graves.gui.break_grave": "Разрушить могилу",
+  "text.graves.gui.quick_pickup": "Забрать все вещи",
+  "text.graves.gui.teleport": "Телепорт к могиле",
+  "text.graves.gui.teleport.not_enough": "Недостаточно ресурсов!",
+  "text.graves.gui.teleport.cost": "Стоимость:",
+
+  "text.graves.gui.cant_reverse": "Вы можете отметить это действие!",
+  "text.graves.gui.click_to_confirm": "Нажмите еще раз чтобы отменить",
+
+  "text.graves.teleport.teleport_timer": "Телепортируем через %s секунд, не двигайтесь!",
+  "text.graves.teleport.teleport_timer_moving": "Телепортируем через %s секунд",
+  "text.graves.teleport.teleport_location": "Телепортируем к %s",
+  "text.graves.teleport.teleport_cancelled": "Телепортация отменена",
+
+  "item.universal_graves.grave_compass": "Могильный компас",
+  "block.universal_graves.grave": "Могила",
+  "block.universal_graves.visual_grave": "Могильный камень",
+
+  "gamerule.universal_graves:protection_time": "Time of grave's protection against other players",
+  "gamerule.universal_graves:breaking_time": "Время действия могилы",
+
+  "text.graves.teleportation_cost.level": "Уровни опыта",
+  "text.graves.teleportation_cost.creative": "Творческий режим",
+  "text.graves.teleportation_cost.free": "Бесплатно",
+  "text.graves.teleportation_cost.item": "Предметы"
+}

@@ -13,12 +13,32 @@ file = "config/desiredServers/desiredservers.json"
 hash = "b2f2bdbc15ffb165502ee92e0e1e60a9eeed7e915a139904ed559aaf56ef40c8"
 
 [[files]]
+file = "config/fabrictailor.json"
+hash = "c809b238d2bae975f1e742f583a7746932fb956c50bc2cf4c6e03fe6d3f4caff"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "6544f25ceb77178713340e5acd141bfee7cd8ae5041a982e7322cdbbe360515b"
 
 [[files]]
 file = "config/modmenu.json"
 hash = "b2d6f97d6f09d3c02504264a778ab1958378c91e5d743afed9ab71846073bf60"
+
+[[files]]
+file = "config/openloader/resources/MVS+ Resources/assets/modmenu/lang/en_us.json"
+hash = "d9cdad9976334ad13cb0fbdd8d8e80c227b3db420d5a426e5112a36f4eeec011"
+
+[[files]]
+file = "config/openloader/resources/MVS+ Resources/assets/modmenu/lang/ru_ru.json"
+hash = "519a516beb0caa39ce84d95029ee0bbe175ceae9df4c752e904b082f4f5b48b6"
+
+[[files]]
+file = "config/openloader/resources/MVS+ Resources/assets/universal_graves/lang/ru_ru.json"
+hash = "a39148ca83ee3eae6d4d4b51b1a554bbac44af1c9f71a9af226a5741cdb4a159"
+
+[[files]]
+file = "config/openloader/resources/MVS+ Resources/pack.mcmeta"
+hash = "52053107fb06505c877c522ddceb30fcaca35756967d485adf81cfaa6848fcc3"
 
 [[files]]
 file = "config/puzzle.json"
@@ -118,6 +138,11 @@ hash = "407fd025c6912135c7d40c238bb96fe05ea8172c403a100ed86f978fc8124c81"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "8ad6410f3a7ae706ffbe605d1bb801b2d2c2a1be3889a0261c3ea33a6e234ccf"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "3b2c1ac53b3aed8e5d0a20ed50a663e8c24948216ab93acd4135c69b3c2fa1e1"
 metafile = true
@@ -190,6 +215,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "8e91eac9da646c5458d00fb68ccf0887bf815947ef549cb19abebe1e6cec5c72"
+metafile = true
+
+[[files]]
+file = "mods/fabrictailor.pw.toml"
+hash = "d7892548e0b0bbcad9dccd94f99786770d296d386eb1eaab525b56046aa7218a"
 metafile = true
 
 [[files]]
@@ -303,6 +333,11 @@ hash = "01efbdcb32ff6e70b6777e26df46bbe3c6c5aecb3e0c81797d234dfad9e0568d"
 metafile = true
 
 [[files]]
+file = "mods/open-loader.pw.toml"
+hash = "1d00f2009d74bc504481d46fee02597d547605a6423951e45ca743c880a4cf60"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "1a32186b1e676035de8810f1b6ab6bbb2763996c5e53aef95878908e9d9e487b"
 metafile = true
@@ -313,13 +348,18 @@ hash = "814b7eba555ba7ae027ca4bb1cd2b2a9b153b95fca5d0246c6d7b791b489c937"
 metafile = true
 
 [[files]]
+file = "mods/polymer.pw.toml"
+hash = "3572f9a89d118a55682cbce046eebdb6d0f6e425a77dd551d0a04a0bb66537b3"
+metafile = true
+
+[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "48aefe7fedf925380793a244646e6449cf3f5aebeeb651b09ab86d6638e8b0c1"
 metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "e8a70e0fb28e3823e2e249837a21bc89aaf27b01278bf3fa9b3d0047bc080784"
+hash = "8219e50865699c5139be8a3a76796975e75bd25c0278bb7740e1589dbb0df0bb"
 metafile = true
 
 [[files]]
@@ -355,6 +395,11 @@ metafile = true
 [[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "6230511311dcd1e74e10121b78b1e6fb47d28f3fb5b2ecda533c7094a16862c0"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "9daac54745a83ffd2a0a1e082c695ff34aa2bd3c9cc336ba2ce7c88e59042a89"
 metafile = true
 
 [[files]]
